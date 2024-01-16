@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hasnain-mirani 
-- 👀 I’m interested in MERN
+- 👀 Full Stack Developer
 - 🌱 I’m currently learning NEST js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
