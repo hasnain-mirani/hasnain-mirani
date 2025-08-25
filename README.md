@@ -59,8 +59,8 @@
 ---
 
 ## Contact
-- 📧 **you@example.com**  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
+- 📧 **hasnainmirani1122@gmail.com**  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-hasnain-mirani/
 - 🌐 **Portfolio:** https://your-portfolio.com
 
 <sub>“Simple systems, strong guarantees.”</sub>
